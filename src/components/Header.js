@@ -1,5 +1,5 @@
 import NavBar from "./NavBar";
-import { Jumbotron, Button } from "react-bootstrap";
+import { Jumbotron } from "react-bootstrap";
 
 const Header = () => {
   return (
