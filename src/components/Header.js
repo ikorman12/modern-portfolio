@@ -1,16 +1,17 @@
+import NavBar from "./NavBar";
+import { Jumbotron, Button } from "react-bootstrap";
+
 const Header = () => {
   return (
     <header>
-        <hi>Igor Korman</hi>
+      <Jumbotron>
+        <h1 eventKey='1' href='#/home'>Igor Korman</h1>
         <nav>
-            <ul>
-                <li>About</li>
-                <li>Contact</li>
-                <li>Projects</li>
-            </ul>
+          <NavBar />
         </nav>
+      </Jumbotron>
     </header>
-  )
-}
+  );
+};
 
 export default Header;
