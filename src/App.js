@@ -1,11 +1,14 @@
 // import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
+import Header from './components/Header'
+import Mainsection from './components/Mainsection';
+import Footer from './components/Footer'
 
 export default function App() {
   return (
     <>
-      <header>This is my portfolio using React</header>
-      <main>projects go here</main>
-      <footer>This is the footer</footer>
+      <Header />
+      <Mainsection/>
+      <Footer/>
     </>
   );
 }
