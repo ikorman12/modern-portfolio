@@ -1,6 +1,15 @@
 const Header = () => {
   return (
-    <header>This is my portfolio using React</header>
+    <header>
+        <hi>Igor Korman</hi>
+        <nav>
+            <ul>
+                <li>About</li>
+                <li>Contact</li>
+                <li>Projects</li>
+            </ul>
+        </nav>
+    </header>
   )
 }
 
