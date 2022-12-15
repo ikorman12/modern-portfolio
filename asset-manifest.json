@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/modern-portfolio/static/js/main.5ea9b4d9.js",
+    "main.css": "/modern-portfolio/static/css/main.b207df4f.css",
+    "main.js": "/modern-portfolio/static/js/main.23a65247.js",
     "index.html": "/modern-portfolio/index.html",
-    "main.5ea9b4d9.js.map": "/modern-portfolio/static/js/main.5ea9b4d9.js.map"
+    "main.b207df4f.css.map": "/modern-portfolio/static/css/main.b207df4f.css.map",
+    "main.23a65247.js.map": "/modern-portfolio/static/js/main.23a65247.js.map"
   },
   "entrypoints": [
-    "static/js/main.5ea9b4d9.js"
+    "static/css/main.b207df4f.css",
+    "static/js/main.23a65247.js"
   ]
 }
